@@ -1,0 +1,4 @@
+palacsinta:
+-tej
+-só
+-vaj
